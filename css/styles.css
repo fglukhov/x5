@@ -591,7 +591,7 @@ main {
   margin: 0; }
 
 .section-about {
-  padding: 140px 0 180px 0; }
+  padding: 140px 0 93px 0; }
 
 .about-col {
   max-width: 80.5%; }
@@ -636,13 +636,13 @@ main {
   padding: 97px 0 121px 0; }
 
 .section-header {
-  margin: 0 0 61px 0; }
+  margin: 0 0 37px 0; }
 
 .section-career .section-header {
   margin-right: -20px; }
 
 .career-button {
-  margin: 89px 0 0 0; }
+  margin: 64px 0 0 0; }
 
 .section-stages:before {
   content: "";
@@ -1050,7 +1050,7 @@ footer {
     font-size: 80px;
     line-height: 93px; }
   .section-about {
-    padding: 110px 0 125px 0; }
+    padding: 110px 0 63px 0; }
   .section-about-obj {
     top: 93px;
     margin-left: 2px;
@@ -1063,7 +1063,7 @@ footer {
     font-size: 50px;
     line-height: 1.17; }
   .section-career {
-    padding: 81px 0 121px 0; }
+    padding: 81px 0 63px 0; }
   .career-button {
     margin: 84px 0 0 0; }
   .stages-descr {
@@ -1076,7 +1076,7 @@ footer {
   .stage-date-day {
     font-size: 66px; }
   .stages-list-wrapper {
-    padding: 129px 0 86px 0; }
+    padding: 129px 0 63px 0; }
   .stage-tmb {
     margin: 0 0 30px 0;
     min-height: 156px; }
@@ -1085,7 +1085,7 @@ footer {
   .tasks-lead {
     font-size: 38px; }
   .section-tasks {
-    padding: 97px 0 122px 0; }
+    padding: 97px 0 95px 0; }
   .tasks-list-wrapper {
     margin: 71px 93px 0 93px; }
   .task-tmb {
@@ -1180,7 +1180,7 @@ footer {
     font-size: 80px;
     line-height: 96px; }
   .section-about {
-    padding: 115px 0 132px 0; }
+    padding: 115px 0 117px 0; }
   .about-text {
     font-size: 32px;
     line-height: 1.5; }
@@ -1201,7 +1201,7 @@ footer {
   .career-descr {
     padding: 0 0 0 8px; }
   .section-career {
-    padding: 105px 0 111px 0;
+    padding: 105px 0 98px 0;
     overflow: hidden;
     font-size: 24px;
     line-height: 1.35; }
@@ -1212,7 +1212,7 @@ footer {
   .section-career .section-header {
     margin-right: 0; }
   .career-button {
-    margin: 105px 0 0 0; }
+    margin: 56px 0 0 0; }
   .stages-col-1 {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
@@ -1238,7 +1238,7 @@ footer {
   .stage-date-day {
     font-size: 80px; }
   .stages-list-wrapper {
-    padding: 63px 0 97px 180px; }
+    padding: 63px 0 71px 180px; }
   .stage-date-month {
     margin: 0 0 5px 17px; }
   .stage-date-from {
@@ -1265,7 +1265,7 @@ footer {
     font-size: 32px;
     line-height: 1.5; }
   .section-tasks {
-    padding: 109px 0 122px 0; }
+    padding: 109px 0 98px 0; }
   .tasks-list-wrapper {
     margin: 83px -27px 0 -27px; }
   .task-tmb {
@@ -1274,12 +1274,12 @@ footer {
     font-size: 20px;
     padding: 13px 0 0 23px; }
   .section-prizes .section-header h2, .section-prizes .section-header .h2 {
-    font-size: 48px;
+    font-size: 44px;
     line-height: 1.17; }
   .prizes-descr {
     padding-right: 11px; }
   .section-prizes {
-    padding: 90px 0 96px 0; }
+    padding: 99px 0 96px 0; }
   .prize-tmb-num {
     -ms-flex: 0 0 96px;
     flex: 0 0 96px;
@@ -1293,7 +1293,7 @@ footer {
   .prize-tmb {
     min-height: 96px; }
   .prizes-button {
-    margin: 10px 0 0 0; }
+    margin: 16px 0 0 0; }
   .section-prizes-obj {
     top: 96px;
     margin-left: -415px;
@@ -1442,8 +1442,8 @@ footer {
     line-height: 1.2;
     max-width: 327px; }
   .section-about {
-    padding: 101px 0 114px 0;
-    min-height: 657px; }
+    padding: 101px 0 94px 0;
+    min-height: 940px; }
   .about-text {
     font-size: 20px;
     line-height: 1.6; }
@@ -1465,8 +1465,8 @@ footer {
   .career-descr {
     padding: 0; }
   .section-career {
-    padding: 0 0 62px 0;
-    min-height: 749px; }
+    padding: 0 0 97px 0;
+    min-height: 846px; }
   .section-career .section-header {
     height: 374px;
     display: -ms-flexbox;
@@ -1522,8 +1522,8 @@ footer {
   .stage-tmb {
     min-height: 158px; }
   .section-stages {
-    padding: 0 0 76px 0;
-    min-height: 1126px; }
+    padding: 0 0 46px 0;
+    min-height: 1128px; }
   .tasks-lead {
     font-size: 24px;
     line-height: 32px;

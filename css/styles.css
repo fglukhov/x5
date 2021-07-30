@@ -1644,6 +1644,33 @@ footer {
     -ms-flex-pack: justify;
     justify-content: space-between; } }
 
+@media (min-width: 1290px) {
+  .top-info {
+    margin: 0 0 27px 0; }
+  h1, .h1 {
+    margin: 0 0 40px 0; }
+  .section-prizes .section-header h2, .section-prizes .section-header .h2 {
+    font-size: 48px;
+    line-height: 60px; }
+  .section-prizes .section-header br {
+    content: ""; }
+  .section-prizes .section-header br:after {
+    content: " "; }
+  .section-prizes {
+    padding: 132px 0 121px 0; }
+  .prizes-list {
+    margin: 50px 0 0 0; }
+  .prizes-button {
+    margin: -8px 0 0 0; }
+  .section-prizes-obj {
+    top: 119px;
+    margin-left: -638px;
+    width: 210px;
+    height: 600px;
+    background: url(../images/section-prizes-obj-new.svg) 0 0 no-repeat; }
+  .section-prizes-obj img {
+    display: none; } }
+
 @media (max-width: 767px) {
   .tasks-list .col,
   .anim {
